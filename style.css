@@ -1,0 +1,15 @@
+body{
+    background-color: crimson;
+    color: cyan;
+}
+#camera{
+    border: 2px dotted black;
+    width: 350px;
+    height: 310px;
+}
+#check{
+    background-color: black;
+}
+#takesnapshot{
+    background-color: black;
+}
